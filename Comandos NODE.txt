@@ -1,0 +1,8 @@
+Instalar Angular
+npm install -g @angular/cli@14.0.3
+
+Instalar NPM
+npm install -g @npm/cli@14.0.3
+
+Versão Node
+node --version
