@@ -10,6 +10,7 @@ import { GatoFofoComponent } from './components/gato-fofo/gato-fofo.component';
 import { PatinhoComponent } from './components/patinho/patinho.component';
 import { CoelhoComponent } from './components/coelho/coelho.component';
 import { CachorroComponent } from './components/cachorro/cachorro.component';
+import { ListarMascoteComponent } from './components/listar-mascote/listar-mascote.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { CachorroComponent } from './components/cachorro/cachorro.component';
     GatoFofoComponent,
     PatinhoComponent,
     CoelhoComponent,
-    CachorroComponent
+    CachorroComponent,
+    ListarMascoteComponent
   ],
   imports: [
     BrowserModule,
